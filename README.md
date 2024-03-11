@@ -45,3 +45,4 @@ Please enter a CC number to validate: 1234567890123456
 Invalid!
 Please enter a CC number to validate: exit
 ```
+![Reference Image](assets/1.png)
